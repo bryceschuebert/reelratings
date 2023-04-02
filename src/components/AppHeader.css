@@ -1,0 +1,17 @@
+.header {
+    background-color: #3a3a44;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    height: 64px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .header h1 {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
