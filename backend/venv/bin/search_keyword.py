@@ -1,4 +1,4 @@
-#!/Users/bryceschuebert/Code/GitHub/my-movies/backend/venv/bin/python3.11
+#!/Users/bryceschuebert/Code/GitHub/ReelRatings/backend/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 """
 search_keyword.py

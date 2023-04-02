@@ -7,12 +7,12 @@ const NewMoviesGallery = () => {
 
   useEffect(() => {
     axios
-      .get('/api/latest_movies')
+      .get('/api/newest_movies') // Updated the API endpoint
       .then((response) => {
         setMovies(response.data.movies);
       })
       .catch((error) => {
-        console.error('Error fetching latest movies', error);
+        console.error('Error fetching newest movies', error);
       });
   }, []);
 
